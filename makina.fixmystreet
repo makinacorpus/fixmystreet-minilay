@@ -2,7 +2,7 @@
 # get subversion into the path
 dependencies=git-1.7 subversion-1.6 python-2.7 libmemcache-1.4 py-libxml2-2.7 py-libxslt-1.1 gdal-1 cairo-1.12 cairomm-1 libpng-1 zlib-1.2 freetype-2.3 libxml2-2.7 libiconv-1.12 libxslt-1.1 fontconfig-2.5 postgresql-9.1 haproxy-1.4 pixman-0 pil-1.1.7 python-2.7
 install_method=buildout
-src_uri=ssh://gitorious-git@gitorious.makina-corpus.net/makinacorpusfixmystreet-buildout.git
+src_uri=ssh://gitorious-git@gitorious.makina-corpus.net/makinacorpus/fixmystreet-buildout.git
 src_type=git
 category=django
 buildout_config=minitage.buildout-dev.cfg
